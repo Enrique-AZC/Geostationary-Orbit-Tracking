@@ -4,7 +4,7 @@
 %          Andrea Bañón Triguero
 % --------------------------------------------------------------
 % Descripción:
-% En esta práctica se implementa un Filtro Extendido de Kalman (EKF)
+% Se implementa un Filtro Extendido de Kalman (EKF)
 % para estimar la trayectoria de un satélite en órbita geostacionaria
 % usando mediciones ruidosas del radio.
 %
